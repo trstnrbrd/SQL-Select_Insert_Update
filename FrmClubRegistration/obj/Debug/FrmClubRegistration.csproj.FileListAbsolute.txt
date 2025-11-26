@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\FrmClubRegistration\FrmClubRegistration\bin\Debug\FrmClubRegistration.exe.config
+C:\Users\Administrator\source\repos\FrmClubRegistration\FrmClubRegistration\bin\Debug\FrmClubRegistration.exe
+C:\Users\Administrator\source\repos\FrmClubRegistration\FrmClubRegistration\bin\Debug\FrmClubRegistration.pdb
+C:\Users\Administrator\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.frmClubRegistration.resources
+C:\Users\Administrator\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.frmUpdateMember.resources
+C:\Users\Administrator\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.Properties.Resources.resources
+C:\Users\Administrator\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.exe
+C:\Users\Administrator\source\repos\FrmClubRegistration\FrmClubRegistration\obj\Debug\FrmClubRegistration.pdb
